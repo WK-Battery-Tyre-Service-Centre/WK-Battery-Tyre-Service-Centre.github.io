@@ -1,0 +1,6 @@
+Sitemap: https://WK-Battery-Tyre-Service-Centre.github.io/en/404/sitemap.xml
+Sitemap: https://WK-Battery-Tyre-Service-Centre.github.io/en/sitemap.xml
+Sitemap: https://WK-Battery-Tyre-Service-Centre.github.io/sitemap.xml
+
+User-agent: *
+Allow: /
